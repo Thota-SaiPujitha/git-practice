@@ -1,0 +1,9 @@
+git -- version
+git config --global --list
+git init
+git init -b branchname
+git add filename or git add .
+git commit -m "commit message"
+git log
+git status
+
