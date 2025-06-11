@@ -6,4 +6,19 @@ git add filename or git add .
 git commit -m "commit message"
 git log
 git status
-
+git ls-files
+git log --oneline
+git reset previous commit hashcode
+git stash
+git stash pop
+git stash clear
+git push origin new branch name
+git pull origin main
+git merge new branch name
+git push origin main
+pick and squash:
+    git rebase -i previous commit hash id
+    pick commitscommit
+    pick commit
+    it merges the commits
+git switch branch name
